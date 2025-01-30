@@ -1,0 +1,11 @@
+101 : Param Vir Chakra
+102 : Valor of Victory Medal
+103 : Bravery in Battle Award
+104 : Distinguished Service Cross
+105 : Gallantry Star
+106 : Heroism Honor Medal
+107 : Courageous Combat Ribbon
+108 : Exceptional Duty Medal
+109 : Patriot's Pride Award
+110 : Defender's Excellence Medal
+111 : Parm vir chakra

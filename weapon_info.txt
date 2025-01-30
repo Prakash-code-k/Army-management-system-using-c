@@ -1,0 +1,11 @@
+101 : AK 47
+102 : M249 SAW
+103 : M16 Rifle
+104 : AK 47
+105 : Glock 17
+106 : MP5
+107 : Remington 700
+108 : Barrett M82
+109 : FN SCAR
+110 : Glock 17
+111 : Assault Rifle

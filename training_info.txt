@@ -1,0 +1,11 @@
+101 : 945 , Gaya
+102 : 745 , Bengaluru
+103 : 320 , Jaisalmer
+104 : 180 , Chennai
+105 : 540 , Dehradun
+106 : 600 , Kolkata
+107 : 480 , Guwahati
+108 : 365 , Leh
+109 : 540 , Dehradun
+110 : 750 , Guwahati
+111 : 256 , Subathu

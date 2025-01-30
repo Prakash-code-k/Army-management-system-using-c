@@ -1,0 +1,11 @@
+101 : 9632587410 , Married
+102 : 9682527410 , Married
+103 : 8745963210 , Unmarried
+104 : 7410852963 , Unmarried
+105 : 6205984713 , Married
+106 : 8984162730 , Unmarried
+107 : 9823075961 , Married
+108 : 6695824710 , Unmarried
+109 : 7504817369 , Unmarried
+110 : 8374695802 , Married
+111 : 9876543210 , Married

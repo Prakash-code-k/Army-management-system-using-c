@@ -1,0 +1,15 @@
+STEP 1. START
+STEP 2. Initialize Database
+STEP 3. Login credentials
+STEP 4. Is login credential correct then go to step 5 otherwise go to 3
+STEP 5. Print main menu 
+STEP 6. Read choice ch
+STEP 7. Is ch==0 then go to step 15 otherwise go to step 8
+STEP 8. Is ch==1 then Read All Info and go to step 5 otherwise go to step 9
+STEP 9. Is ch==2 then Print Personal Info and go to step 5 otherwise go to step 10
+STEP 10. Is ch==3 then Read Soldier ID Print ID, Address and go to step 5 otherwise go to step 11
+STEP 11.  Is ch==4 then Read Soldier ID Print ID, Phone no., Marital status and go to step 5 otherwise go to step 12
+STEP 12. Is ch==5 then Read Soldier ID Print ID, Award name and go to step 5 otherwise go to step 13
+STEP 13. Is ch==6 then Read Soldier ID Print ID, Weapon name and go to step 5 otherwise go to step 14
+STEP 14. Is ch==7 then Read Soldier ID Print ID, Training duration, Training Place and go to step 5 otherwise Print Invalid, Try Again and go to step 5
+STEP 15. STOP

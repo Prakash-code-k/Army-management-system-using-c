@@ -1,0 +1,11 @@
+101 Arun Khetarpal 15-03-1965 B+ 14-05-1990 Male Dogra
+102 Rajesh Kumar 05-03-1980 O+ 15-07-2001 Male Rajput
+103 Anjali Singh 22-11-1978 A- 12-01-2000 Female Dogra
+104 Rohan Verma 09-09-1985 B+ 25-03-2008 Male Gorkha
+105 Vivek Sharma 13-05-1975 AB+ 01-02-1996 Male Sikh
+106 Priya Das 19-02-1983 A+ 30-10-2004 Female Garhwal
+107 Kunal Mehra 17-12-1989 B- 05-06-2012 Male Jat
+108 Sneha Rao 14-07-1984 O- 20-09-2006 Female Maratha
+109 Arjun Nair 28-08-1970 AB- 15-12-1991 Male Madras
+110 Swati Patel 25-01-1979 A+ 18-11-1999 Female Assam
+111 Ujjwal Thakur 12-08-1970 AB+ 25-02-1999 Male Gorkha

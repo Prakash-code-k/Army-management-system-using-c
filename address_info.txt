@@ -1,0 +1,11 @@
+101 : Kothapeta, Guntur, Andhra Pradesh 522001
+102 : Lakshminagar, Vijayawada, Andhra Pradesh 520010
+103 : Rama Rao Peta, Kakinada, Andhra Pradesh 533004
+104 : Pallikarnai, Chennai, Tamil Nadu 600100
+105 : Mangalwar Peth, Pune, Maharashtra 411011
+106 : Anand Vihar, Delhi, Delhi 110092
+107 : Gandhi Nagar, Bengaluru, Karnataka 560009
+108 : Sarabha Nagar, Ludhiana, Punjab 141001
+109 : Vyttila, Kochi, Kerala 682019
+110 : Shivaji Nagar, Bhopal, Madhya Pradesh 462016
+111 : Spring field,Jharkhand 831011

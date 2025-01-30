@@ -1,3 +1,6 @@
+Username = user
+password = your system current time in { HHMM } format
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
